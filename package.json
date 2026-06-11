@@ -1,0 +1,17 @@
+{
+  "name": "agentic-learning-mentor",
+  "version": "1.0.0",
+  "description": "> **A revolutionary AI-powered learning and mentoring skill for Agentic IDEs**\r >\r > Transform the way you learn. Get personalized, interactive mentoring sessions that adapt to your level, teach you through hands-on challenges, and generate detailed learning reports — all in 15 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-abm1119:abm1119/agentic-learning-mentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
