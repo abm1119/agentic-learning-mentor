@@ -1,7 +1,7 @@
 {
   "name": "agentic-learning-mentor",
-  "version": "1.0.0",
-  "description": "> **A revolutionary AI-powered learning and mentoring skill for Agentic IDEs**\r >\r > Transform the way you learn. Get personalized, interactive mentoring sessions that adapt to your level, teach you through hands-on challenges, and generate detailed learning reports — all in 15 minutes.",
+  "version": "1.2.0",
+  "description": "Interactive AI mentoring skill for Agentic Workflows. Compatible with Claude Code, Antigravity, Cursor, Codex, Gemini-CLI, and 40+ agents. Delivers personalized 15-minute learning sessions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,17 @@
     "type": "git",
     "url": "git@github-abm1119:abm1119/agentic-learning-mentor.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "ai-mentoring",
+    "agentic-workflows",
+    "adaptive-learning",
+    "education",
+    "agentic-ide",
+    "claude-code",
+    "antigravity",
+    "cursor-ide"
+  ],
+  "author": "abm1119",
+  "license": "MIT",
   "type": "commonjs"
 }
